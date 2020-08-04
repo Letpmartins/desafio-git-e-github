@@ -17,6 +17,5 @@
     <li>Criar o arquivo index.html.</li>
     <li>Realizar os pushs  para as atualizações através de commits das atividades executas no arquivo.</li>
     <li>E por fim publicar a página no github pages onde você pode conferir o resultado no link abaixo.</li>
-
-     <a href="https://letpmartins.github.io/desafio-git-e-github/"> GitHub Pages</a>
 </ul>
+<a href="https://letpmartins.github.io/desafio-git-e-github/">Desafio Idev<a>
